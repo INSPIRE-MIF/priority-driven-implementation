@@ -1,2 +1,3 @@
-# priority-driven-implementation
-Repository for INSPIRE MIWP Action 2.2 'Roadmap for priority-driven implementation' 
+# Repository for INSPIRE MIWP Action 2.2 'Roadmap for priority-driven implementation' 
+
+The Action 2.2 “Roadmap for priority-driven implementation” is defined in the [INSPIRE MIWP 2021-2024](https://webgate.ec.europa.eu/fpfis/wikis/display/InspireMIG/INSPIRE+work+programme+2021-24) with aim to ...
